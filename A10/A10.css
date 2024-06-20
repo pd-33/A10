@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: wheat;
+    text-align: center;
+    margin: 0;
+    padding: 50px;
+}
+#cookieValue {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    display: inline-block;
+}
